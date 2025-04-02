@@ -1,0 +1,201 @@
+patientunitstayid,age,ethnicity,hospitaladmitsource,hospitaldischargelocation,hospitaldischargestatus,labresult,diagnosisstring,icd9code,treatmentstring,age_group,admitdxtext_length,is_female,critical_discharge
+264276,37.0,4,3,3,0,33.0,pulmonary|respiratory failure|ARDS,106,67,1,14.0,0,0
+2735662,83.0,2,2,2,0,1.1,cardiovascular|arrhythmias|atrial fibrillation,80,173,3,14.0,1,0
+3003035,65.0,2,2,7,0,8.0,cardiovascular|arrhythmias|syncope|likely non-cardiac origin,145,197,2,19.0,0,0
+3009480,69.0,0,2,7,0,8.2,cardiovascular|ventricular disorders|congestive heart failure,84,264,3,2.0,0,0
+532223,88.0,3,7,1,0,37.9,gastrointestinal|abdominal/ general|abdominal pain / tenderness|epigastric,160,27,3,26.0,0,0
+2847097,76.0,1,2,7,0,2.63,cardiovascular|chest pain / ASHD|hyperlipidemia,21,301,3,14.0,0,0
+447543,80.0,3,2,0,1,0.0,neurologic|altered mental status / pain|change in mental status,144,41,3,15.0,0,1
+1072605,89.0,2,2,1,0,94.3,neurologic|altered mental status / pain|change in mental status,144,175,3,10.0,1,0
+3035601,71.0,2,2,6,0,5.0,burns/trauma|trauma - skeletal|bone fracture(s)|left lower extremity|tibia,168,308,3,6.0,1,0
+3230503,72.0,2,2,7,0,47.0,cardiovascular|shock / hypotension|septic shock,150,141,3,10.0,0,0
+395323,43.0,2,2,5,0,4.3,neurologic|trauma - CNS|spinal cord injury|quadriplegia-complete,56,80,2,37.0,0,0
+2792350,69.0,3,2,1,0,56.0,endocrine|glucose metabolism|diabetes mellitus,126,192,3,13.0,0,0
+3204052,56.0,2,2,0,1,2.4,gastrointestinal|GI bleeding / PUD|upper GI bleeding|ulcer,124,71,2,14.0,0,1
+341780,49.0,2,1,1,0,9.3,renal|disorder of kidney|acute renal failure,126,325,2,2.0,0,0
+426975,69.0,3,2,0,1,24.88,cardiovascular|shock / hypotension|sepsis|sepsis with single organ dysfunction- acute renal failure,3,100,3,11.0,0,1
+1352773,82.0,2,1,7,0,2.1,general|support services|seen by occupational therapy consult,126,53,3,3.0,0,0
+1076172,78.0,2,4,0,1,5.3,cardiovascular|cardiac surgery|valve replacement < 7days|aortic,126,76,3,34.0,1,1
+2740390,67.0,2,3,7,0,8.9,endocrine|glucose metabolism|diabetes mellitus,126,282,3,2.0,0,0
+1338010,67.82889344262296,2,4,7,0,0.57,neurologic|altered mental status / pain|change in mental status,144,150,3,17.0,1,0
+1334350,78.0,2,3,0,1,1.01,cardiovascular|arrhythmias|atrial fibrillation|with controlled ventricular response,80,81,3,6.0,0,1
+1558170,64.0,2,8,7,0,7.4,renal|disorder of kidney|chronic kidney disease|Stage 5 (GFR <14),129,33,2,2.0,1,0
+498849,58.0,3,2,1,0,23.0,cardiovascular|cardiac surgery|s/p CABG < 7 days,126,229,2,29.0,0,0
+384485,82.0,2,1,7,0,184.0,pulmonary|respiratory failure|failure to wean,126,177,3,11.0,1,0
+2803818,63.0,3,2,5,0,32.2,cardiovascular|shock / hypotension|sepsis,5,259,2,2.0,1,0
+3057806,79.0,2,2,6,0,39.2,cardiovascular|ventricular disorders|hypertension|uncontrolled,67,310,3,33.0,1,0
+2745039,58.0,2,4,1,0,1.2,endocrine|glucose metabolism|diabetes mellitus,126,190,2,1.0,0,0
+3009480,69.0,0,2,7,0,76.0,cardiovascular|shock / hypotension|signs and symptoms of sepsis (SIRS),175,5,3,2.0,0,0
+3150622,81.0,2,2,0,1,1.4,cardiovascular|ventricular disorders|acute pulmonary edema|due to left ventricular dysfunction,85,12,3,14.0,0,1
+472360,63.0,0,2,1,0,150.0,renal|disorder of acid base|metabolic acidosis|ketoacidosis/diabetic,27,259,2,2.0,1,0
+1540035,71.0,0,2,1,0,135.0,renal|disorder of kidney|ESRD (end stage renal disease),130,305,1,2.0,1,0
+249328,87.0,2,4,5,0,1.5,infectious diseases|systemic/other infections|hematological effect of infection|leukocytosis,46,279,3,23.0,0,0
+2735662,83.0,2,2,2,0,33.1,endocrine|glucose metabolism|diabetes mellitus,126,23,3,14.0,1,0
+2847097,76.0,1,2,7,0,12.0,cardiovascular|chest pain / ASHD|acute coronary syndrome|acute myocardial infarction (with ST elevation)|lateral wall,70,32,3,2.0,0,0
+2866893,46.0,3,3,1,0,10.0,pulmonary|respiratory failure|acute respiratory distress,108,273,2,10.0,0,0
+472360,63.0,0,2,1,0,27.3,hematology|platelet disorders|thrombocytopenia|etiology unknown,45,176,2,6.0,1,0
+1568559,72.0,2,2,7,0,31.7,cardiovascular|shock / hypotension|sepsis,5,279,3,2.0,1,0
+343093,73.0,2,1,0,1,2.4,cardiovascular|chest pain / ASHD|hyperlipidemia,21,110,3,2.0,0,1
+1065859,67.82889344262296,2,2,1,0,22.0,endocrine|fluids and electrolytes|hyperkalemia|severe (> 6.1 meq/dl),31,177,3,30.0,1,0
+2761777,83.0,2,2,7,0,22.0,pulmonary|respiratory failure|acute respiratory distress,108,286,3,20.0,0,0
+2879465,45.0,2,2,1,0,16.0,neurologic|altered mental status / pain|drug withdrawal syndrome,181,47,2,2.0,0,0
+2873230,87.0,2,2,0,1,3.59,neurologic|altered mental status / pain|pain,126,302,3,20.0,0,1
+426975,69.0,3,2,0,1,158.0,cardiovascular|shock / hypotension|sepsis|sepsis with single organ dysfunction- circulatory system failure,4,18,3,20.0,0,1
+249328,87.0,2,4,5,0,8.0,cardiovascular|shock / hypotension|septic shock,150,214,3,23.0,0,0
+2672664,34.0,2,2,1,0,3.8,renal|disorder of kidney|ESRD (end stage renal disease),130,342,1,20.0,0,0
+2597776,84.0,2,1,1,0,0.05,cardiovascular|shock / hypotension|sepsis,5,322,3,2.0,0,0
+490809,71.0,3,2,1,0,73.0,pulmonary|respiratory failure|acute respiratory distress,108,315,3,2.0,0,0
+1101375,79.0,2,2,3,0,184.0,neurologic|seizures|seizures|status epilepticus,57,220,3,33.0,1,0
+969631,76.0,2,2,1,0,14.1,cardiovascular|vascular disorders|arterial thromboembolism|kidney,134,329,3,14.0,0,0
+2761777,83.0,2,2,7,0,35.0,pulmonary|pleural disorders|pleural effusion|right,102,186,3,2.0,0,0
+447543,80.0,3,2,0,1,22.0,hematology|coagulation disorders|hypercoagulable state,43,41,3,14.0,0,1
+3142620,71.0,2,2,1,0,146.0,renal|electrolyte imbalance|hypomagnesemia,23,186,1,2.0,0,0
+599651,61.0,2,4,1,0,30.0,cardiovascular|cardiac surgery|s/p CABG < 7 days,126,14,2,14.0,0,0
+1352773,82.0,2,1,7,0,125.0,general|support services|seen by occupational therapy consult,126,80,3,3.0,0,0
+2727377,87.0,2,2,1,0,99.0,endocrine|glucose metabolism|diabetes mellitus,126,32,3,14.0,0,0
+447543,80.0,3,2,0,1,6.0,hematology|coagulation disorders|hypercoagulable state,43,218,3,14.0,0,1
+2284508,73.0,2,0,6,0,204.0,cardiovascular|chest pain / ASHD|acute coronary syndrome|acute myocardial infarction (with ST elevation),72,298,3,33.0,0,0
+444241,35.0,3,2,1,0,2.5,oncology|chest tumors|mediastinal tumor|thymoma,126,126,1,2.0,1,0
+1609629,42.0,2,2,3,0,63.991074222668,toxicology|drug overdose|narcotic overdose|with respiratory depression,185,343,2,10.0,0,0
+249328,87.0,2,4,5,0,33.1,cardiovascular|arrhythmias|atrial fibrillation,80,132,3,23.0,0,0
+3150622,81.0,2,2,0,1,0.9,renal|electrolyte imbalance|hypocalcemia|moderate,24,5,3,9.0,0,1
+2761777,83.0,2,2,7,0,35.3,neurologic|altered mental status / pain|agitation,52,126,3,11.0,0,0
+2873230,87.0,2,2,0,1,128.0,hematology|bleeding and red blood cell disorders|anemia,126,301,3,11.0,0,1
+2873230,87.0,2,2,0,1,28.6,cardiovascular|arrhythmias|atrial fibrillation,80,175,3,20.0,0,1
+2552038,73.0,2,2,0,1,4.8,renal|disorder of kidney|chronic renal insufficiency,131,179,3,17.0,1,1
+3092621,61.0,2,2,1,0,149.0,cardiovascular|chest pain / ASHD|chest pain|r/o myocardial ischemia,126,82,2,2.0,0,0
+426975,69.0,3,2,0,1,98.6,neurologic|altered mental status / pain|encephalopathy,62,77,3,11.0,0,1
+2873230,87.0,2,2,0,1,3.0,hematology|bleeding and red blood cell disorders|anemia,126,279,3,11.0,0,1
+341780,49.0,2,1,1,0,4.33,pulmonary|respiratory failure|acute respiratory distress,108,96,2,14.0,0,0
+2873230,87.0,2,2,0,1,16.3,neurologic|altered mental status / pain|encephalopathy,62,279,3,11.0,0,1
+3142620,71.0,2,2,1,0,22.0,renal|electrolyte imbalance|hypokalemia,33,126,1,21.0,0,0
+472360,63.0,0,2,1,0,1.5,infectious diseases|GU infections|acute pyelonephritis|without renal calculi,132,157,2,6.0,1,0
+3150622,81.0,2,2,0,1,89.0,general|support services|seen by pastoral services consult,126,5,3,2.0,0,1
+312258,53.0,2,1,6,0,111.0,pulmonary|pulmonary infections|pneumonia,98,278,2,2.0,0,0
+384485,82.0,2,1,7,0,30.0,cardiovascular|chest pain / ASHD|coronary artery disease|known,74,103,3,11.0,1,0
+1334350,78.0,2,3,0,1,19.8,cardiovascular|ventricular disorders|congestive heart failure,84,75,3,2.0,0,1
+490809,71.0,3,2,1,0,138.0,renal|disorder of kidney|acute renal failure,126,100,3,11.0,0,0
+1327852,71.0,3,2,1,0,108.0,endocrine|glucose metabolism|diabetes mellitus,126,202,1,21.0,0,0
+1036759,52.0,2,2,1,0,37.1,pulmonary|respiratory failure|ARDS,106,196,2,2.0,1,0
+454584,63.0,0,2,1,0,119.0,neurologic|altered mental status / pain|obtundation,142,248,2,11.0,1,0
+1359918,83.0,2,2,7,0,0.36,cardiovascular|chest pain / ASHD|hyperlipidemia,21,12,3,21.0,0,0
+2721454,62.0,2,2,1,0,13.9,neurologic|altered mental status / pain|agitation|severe,52,57,2,3.0,0,0
+2873230,87.0,2,2,0,1,9.0,hematology|bleeding and red blood cell disorders|anemia,126,179,3,11.0,0,1
+3204052,56.0,2,2,0,1,22.0,cardiovascular|cardiac arrest|cardiac arrest,82,71,2,3.0,0,1
+3035601,71.0,2,2,6,0,156.0,burns/trauma|trauma - skeletal|bone fracture(s)|left lower extremity|fibula,168,118,3,6.0,1,0
+970328,87.0,2,3,2,0,33.0,pulmonary|respiratory failure|acute respiratory failure,107,279,3,11.0,1,0
+426975,69.0,3,2,0,1,9.0,renal|disorder of kidney|acute renal failure|due to sepsis,126,246,3,2.0,0,1
+2873230,87.0,2,2,0,1,34.0,renal|disorder of kidney|chronic kidney disease|Stage 3 (GFR 30-59),128,269,3,20.0,0,1
+475792,67.82889344262296,3,4,1,0,9.0,infectious diseases|GI infections|diarrhea due to infection|C. difficile colitis|lab confirmed,0,242,3,2.0,0,0
+3150622,81.0,2,2,0,1,22.0,"cardiovascular|cardiac arrest|cardiac arrest|witnessed, > 15 minutes CPR",82,73,3,2.0,0,1
+1622702,43.0,2,2,1,0,0.1,renal|disorder of kidney|acute renal failure|due to obstruction,137,324,2,14.0,1,0
+1101375,79.0,2,2,3,0,105.0,neurologic|seizures|seizures|status epilepticus,57,279,3,10.0,1,0
+426975,69.0,3,2,0,1,2.5,pulmonary|pulmonary infections|pneumonia,98,137,3,11.0,0,1
+472360,63.0,0,2,1,0,84.0,infectious diseases|systemic/other infections|fever,147,59,2,6.0,1,0
+3135611,69.0,2,0,1,0,2.2,renal|electrolyte imbalance|hyperkalemia,31,93,3,29.0,0,0
+2609672,67.82889344262296,2,0,7,0,28.5,infectious diseases|GU infections|lower urinary tract infection,135,42,3,2.0,1,0
+264276,37.0,4,3,3,0,0.1,gastrointestinal|GI bleeding / PUD|lower GI bleeding,124,262,1,17.0,0,0
+1532382,62.0,0,2,1,0,28.5,pulmonary|respiratory failure|hypoxemia,164,288,2,17.0,0,0
+490809,71.0,3,2,1,0,32.9,renal|electrolyte imbalance|hypernatremia|moderate (146 - 155 meq/dl),25,172,3,11.0,0,0
+2873230,87.0,2,2,0,1,195.0,renal|disorder of urinary tract / renal system infection|lower urinary tract infection,135,183,3,3.0,0,1
+2552038,73.0,2,2,0,1,4.7,infectious diseases|systemic/other infections|septic shock,153,201,3,17.0,1,1
+3035601,71.0,2,2,6,0,22.0,gastrointestinal|abdominal/ general|obesity,36,292,3,22.0,1,0
+333689,82.0,2,1,7,0,33.6,neurologic|altered mental status / pain|change in mental status,144,202,3,14.0,0,0
+426975,69.0,3,2,0,1,125.0,cardiovascular|shock / hypotension|hypotension / pressor dependent,126,233,3,2.0,0,1
+312258,53.0,2,1,6,0,4.0,hematology|bleeding and red blood cell disorders|anemia,126,233,2,2.0,0,0
+264276,37.0,4,3,3,0,113.0,gastrointestinal|GI bleeding / PUD|lower GI bleeding,124,298,1,17.0,0,0
+3150622,81.0,2,2,0,1,30.0,renal|disorder of acid base|metabolic acidosis|lactic acidosis,27,65,3,9.0,0,1
+345142,77.0,2,5,7,0,22.0,pulmonary|respiratory failure|Tracheostomy performed during this admission for ventilatory support,53,222,3,11.0,1,0
+395323,43.0,2,2,5,0,2.0,hematology|bleeding and red blood cell disorders|anemia,126,238,2,37.0,0,0
+350263,58.0,2,2,5,0,2.0,cardiovascular|ventricular disorders|hypertension,67,120,2,2.0,0,0
+490809,71.0,3,2,1,0,1.5,renal|electrolyte imbalance|hypernatremia,25,288,3,2.0,0,0
+384028,69.0,2,2,3,0,195.0,gastrointestinal|abdominal/ general|abdominal pain / tenderness|generalized,161,261,3,2.0,1,0
+260647,69.0,2,2,4,0,5.0,cardiovascular|vascular disorders|DVT,126,205,3,17.0,0,0
+312258,53.0,2,1,6,0,7.564,cardiovascular|ventricular disorders|hypertension,67,129,2,11.0,0,0
+483209,72.0,3,3,1,0,9.0,neurologic|altered mental status / pain|dementia|Alzheimer's disease,50,32,3,16.0,0,0
+1081591,78.0,2,4,1,0,100.0,neurologic|disorders of vasculature|stroke|ischemic stroke|right sided,90,194,3,2.0,1,0
+2609672,67.82889344262296,2,0,7,0,29.0,infectious diseases|systemic/other infections|sepsis,5,95,3,14.0,1,0
+333689,82.0,2,1,7,0,3.96,cardiovascular|chest pain / ASHD|coronary artery disease|known,74,175,3,14.0,0,0
+343093,73.0,2,1,0,1,18.2,hematology|bleeding and red blood cell disorders|anemia,126,18,3,11.0,0,1
+447543,80.0,3,2,0,1,40.0,"infectious diseases|GI infections|enteritis|colitis, presumed infectious",1,136,3,14.0,0,1
+341780,49.0,2,1,1,0,1.5,cardiovascular|ventricular disorders|cardiomyopathy,126,325,2,14.0,0,0
+341780,49.0,2,1,1,0,2.9,cardiovascular|shock / hypotension|cardiogenic shock,149,102,2,14.0,0,0
+2555067,56.0,0,2,1,0,33.0,endocrine|glucose metabolism|diabetes mellitus,126,302,2,13.0,1,0
+2609672,67.82889344262296,2,0,7,0,14.4,endocrine|glucose metabolism|hypoglycemia,18,42,3,2.0,1,0
+343093,73.0,2,1,0,1,42.5,hematology|bleeding and red blood cell disorders|anemia,126,270,3,2.0,0,1
+447543,80.0,3,2,0,1,17.0,pulmonary|respiratory failure|hypoxemia,164,288,3,14.0,0,1
+1335985,79.0,2,4,1,0,157.0,cardiovascular|post vascular surgery|s/p aneurysm resection/repair abdominal aorta,126,19,3,14.0,0,0
+3152779,69.0,2,4,1,0,8.5,endocrine|glucose metabolism|hyperglycemia,163,338,3,11.0,0,0
+1540035,71.0,0,2,1,0,96.0,pulmonary|respiratory failure|acute respiratory failure,107,307,1,11.0,1,0
+1855917,68.0,2,2,1,0,8.0,gastrointestinal|GI bleeding / PUD|lower GI bleeding|rectal,124,78,3,18.0,0,0
+3207237,76.0,2,4,5,0,1.4,gastrointestinal|abdominal/ general|constipation,116,338,3,11.0,1,0
+296927,66.0,2,4,7,0,143.0,gastrointestinal|post-GI surgery|s/p exploratory laparotomy,126,184,3,2.0,0,0
+333689,82.0,2,1,7,0,3.78,gastrointestinal|GI bleeding / PUD|lower GI bleeding|due to A-V malformation,120,198,3,14.0,0,0
+249328,87.0,2,4,5,0,208.0,oncology|GU tumors|bladder CA,10,279,3,23.0,0,0
+333689,82.0,2,1,7,0,32.0,pulmonary|disorders of the airways|COPD,99,26,3,14.0,0,0
+3152779,69.0,2,4,1,0,133.0,endocrine|glucose metabolism|hyperglycemia,163,66,3,1.0,0,0
+3003035,65.0,2,2,7,0,103.0,pulmonary|respiratory failure|acute lung injury|pulmonary etiology|pneumonia,106,235,2,2.0,0,0
+264276,37.0,4,3,3,0,109.0,pulmonary|respiratory failure|ARDS,106,70,1,2.0,0,0
+2740390,67.0,2,3,7,0,4.5,pulmonary|respiratory failure|hypoxemia,164,200,3,11.0,0,0
+490809,71.0,3,2,1,0,10.0,neurologic|seizures|seizures,60,70,3,16.0,0,0
+525046,38.0,5,2,0,1,22.0,neurologic|altered mental status / pain|encephalopathy|post-anoxic,61,87,1,2.0,1,1
+2600767,67.82889344262296,2,0,3,0,59.0,cardiovascular|chest pain / ASHD|acute coronary syndrome|acute myocardial infarction (no ST elevation),71,323,3,17.0,0,0
+264276,37.0,4,3,3,0,1.66,toxicology|drug withdrawal|alcohol withdrawal,48,286,1,14.0,0,0
+264276,37.0,4,3,3,0,7.462,renal|electrolyte imbalance|hypokalemia,33,347,1,14.0,0,0
+3163373,57.0,0,3,7,0,2.9,transplant|s/p kidney transplant|hypertension - kidney transplant,179,288,2,2.0,0,0
+345142,77.0,2,5,7,0,8.0,neurologic|disorders of vasculature|cerebral subdural hematoma|secondary to anticoagulation,87,76,3,11.0,1,0
+264276,37.0,4,3,3,0,1.38,cardiovascular|shock / hypotension|hypotension,95,262,1,2.0,0,0
+249328,87.0,2,4,5,0,22.0,pulmonary|respiratory failure|acute respiratory failure,107,132,3,13.0,0,0
+1744369,62.0,2,2,1,0,29.7,renal|disorder of kidney|acute renal failure,126,302,2,20.0,0,0
+1830188,76.0,2,2,1,0,89.4,gastrointestinal|GI bleeding / PUD|lower GI bleeding,124,114,3,18.0,1,0
+3100629,70.0,2,2,5,0,1.5,endocrine|glucose metabolism|diabetes mellitus,126,279,3,29.0,0,0
+472360,63.0,0,2,1,0,8.6,cardiovascular|shock / hypotension|hypotension / pressor dependent,126,309,2,2.0,1,0
+3003035,65.0,2,2,7,0,22.0,endocrine|glucose metabolism|hypoglycemia,18,243,2,12.0,0,0
+264901,81.0,2,3,1,0,3.0,cardiovascular|arrhythmias|atrial fibrillation,80,96,3,2.0,0,0
+483209,72.0,3,3,1,0,31.8,neurologic|altered mental status / pain|dementia|Alzheimer's disease,50,84,3,2.0,0,0
+2873230,87.0,2,2,0,1,199.0,hematology|bleeding and red blood cell disorders|anemia,126,279,3,20.0,0,1
+2906936,88.0,2,4,7,0,1.24,burns/trauma|trauma - skeletal|bone fracture(s),126,336,3,17.0,1,0
+312258,53.0,2,1,6,0,2.83,cardiovascular|chest pain / ASHD|hyperlipidemia,21,269,2,11.0,0,0
+2886662,33.0,2,2,1,0,33.1,infectious diseases|GU infections|lower urinary tract infection,135,159,1,19.0,0,0
+1744369,62.0,2,2,1,0,10.0,renal|electrolyte imbalance|hyperkalemia|severe (> 6.1 meq/dl),31,306,2,2.0,0,0
+472360,63.0,0,2,1,0,17.3,cardiovascular|ventricular disorders|congestive heart failure,84,176,2,2.0,1,0
+3339079,78.0,2,4,1,0,97.0,gastrointestinal|post-GI surgery|s/p exploratory laparotomy,126,339,3,16.0,0,0
+264276,37.0,4,3,3,0,106.0,renal|disorder of kidney|acute renal failure,126,123,1,2.0,0,0
+264276,37.0,4,3,3,0,18.5,hematology|transfusion medicine|transfusion reaction,180,346,1,2.0,0,0
+1059638,74.0,0,2,1,0,12.5,pulmonary|respiratory failure|acute respiratory failure,107,164,3,11.0,0,0
+2552038,73.0,2,2,0,1,13.2,hematology|bleeding and red blood cell disorders|anemia,126,126,3,17.0,1,1
+2748974,66.0,2,2,0,1,22.0,renal|electrolyte imbalance|hypomagnesemia,23,309,3,2.0,0,1
+2552038,73.0,2,2,0,1,8.0,infectious diseases|systemic/other infections|signs and symptoms of sepsis (SIRS),175,91,3,17.0,1,1
+490809,71.0,3,2,1,0,3.94,endocrine|glucose metabolism|diabetes mellitus,126,315,3,2.0,0,0
+2592641,63.0,2,2,7,0,7.49,renal|disorder of kidney|acute renal failure,126,259,2,20.0,0,0
+3003035,65.0,2,2,7,0,139.0,pulmonary|respiratory failure|acute lung injury|pulmonary etiology|pneumonia,106,197,2,12.0,0,0
+3233620,77.0,2,7,7,0,33.5,gastrointestinal|intestinal disease|viscus perforation,126,111,3,16.0,0,0
+3136458,72.0,2,2,7,0,33.5,renal|disorder of acid base|metabolic acidosis,27,310,3,28.0,1,0
+2721454,62.0,2,2,1,0,1.8,neurologic|altered mental status / pain|delirium,49,41,2,12.0,0,0
+2559053,84.0,2,4,0,1,56.9,hematology|platelet disorders|thrombocytopenia,45,233,3,3.0,1,1
+3205101,67.82889344262296,2,2,7,0,11.0,pulmonary|pleural disorders|pleural effusion|left,102,197,3,2.0,0,0
+2847097,76.0,1,2,7,0,161.0,cardiovascular|chest pain / ASHD|acute coronary syndrome|acute myocardial infarction (with ST elevation)|lateral wall,70,172,3,11.0,0,0
+2552038,73.0,2,2,0,1,-3.3,endocrine|glucose metabolism|diabetes mellitus,126,172,3,14.0,1,1
+532223,88.0,3,7,1,0,4.19,gastrointestinal|abdominal/ general|abdominal pain / tenderness|epigastric,160,21,3,26.0,0,0
+472360,63.0,0,2,1,0,22.0,endocrine|glucose metabolism|DKA,17,75,2,10.0,1,0
+1293742,59.0,2,2,6,0,27.0,pulmonary|respiratory failure|acute lung injury,106,279,2,28.0,1,0
+1653043,54.0,2,2,1,0,3.74,cardiovascular|vascular disorders|DVT|right lower extremity,93,18,2,2.0,0,0
+264423,48.0,4,2,5,0,22.0,cardiovascular|ventricular disorders|congestive heart failure,84,127,2,20.0,0,0
+2552038,73.0,2,2,0,1,115.0,infectious diseases|systemic/other infections|sepsis|severe,178,99,3,17.0,1,1
+1345180,74.0,2,2,1,0,142.0,cardiovascular|vascular disorders|hypertension,67,99,3,15.0,1,0
+1054428,71.0,0,2,3,0,5.0,surgery|thoracic surgery|pneumothorax,103,134,1,2.0,0,0
+2829425,69.0,2,2,1,0,3.9,pulmonary|disorders of the airways|acute COPD exacerbation,100,187,3,11.0,0,0
+1081591,78.0,2,4,1,0,97.0,neurologic|disorders of vasculature|stroke|ischemic stroke|atheroembolic,89,34,3,38.0,1,0
+2589698,85.0,2,2,4,0,30.0,cardiovascular|arrhythmias|atrial fibrillation,80,239,3,14.0,1,0
+3152779,69.0,2,4,1,0,10.1,cardiovascular|vascular disorders|hypertension,67,229,3,3.0,0,0
+2682904,77.0,2,8,1,0,126.0,cardiovascular|arrhythmias|SVT,78,286,3,2.0,0,0
+454584,63.0,0,2,1,0,156.5,hematology|bleeding and red blood cell disorders|anemia,126,128,2,11.0,1,0
+296927,66.0,2,4,7,0,28.0,cardiovascular|arrhythmias|atrial fibrillation|with rapid ventricular response,80,184,3,2.0,0,0
+341780,49.0,2,1,1,0,9.7,pulmonary|respiratory failure|acute respiratory distress,108,39,2,2.0,0,0
+264276,37.0,4,3,3,0,62.8,cardiovascular|shock / hypotension|hypotension,95,262,1,14.0,0,0
+498849,58.0,3,2,1,0,29.0,cardiovascular|ventricular disorders|cardiomyopathy,126,22,2,29.0,0,0
+2597777,84.0,2,1,1,0,31.3,pulmonary|respiratory failure|acute respiratory failure,107,295,3,2.0,0,0
+264276,37.0,4,3,3,0,27.5,"cardiovascular|cardiac arrest|cardiac arrest|witnessed, < 15 minutes CPR",82,123,1,14.0,0,0
+532222,88.0,3,7,1,0,32.0,cardiovascular|arrhythmias|atrial fibrillation|with controlled ventricular response,80,102,3,23.0,0,0
+2552038,73.0,2,2,0,1,1.01,pulmonary|respiratory failure|ARDS,106,99,3,2.0,1,1
+341780,49.0,2,1,1,0,61.0,renal|disorder of kidney|acute renal failure,126,15,2,2.0,0,0
